@@ -2,6 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="https://weggs.github.io/weggs-agentcms/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://weggs.github.io/weggs-agentcms/contact.html</loc>
+    <lastmod>2026-10-30</lastmod>
+  </url>
+  <url>
     <loc>https://weggs.github.io/weggs-agentcms/services.html</loc>
     <lastmod>2026-10-30</lastmod>
   </url>
